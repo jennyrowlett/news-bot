@@ -1,6 +1,6 @@
 import streamlit as st
 from datetime import date
-import backend  # Import the backend script
+import backend as backend  # Import the backend script
 
 
 # Streamlit UI

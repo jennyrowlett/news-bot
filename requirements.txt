@@ -1,0 +1,14 @@
+click==8.1.7
+groq==0.18.0
+ipython==8.12.3
+langchain_core==0.3.35
+langchain_groq==0.2.4
+langchain_ollama==0.2.3
+langchain_openai==0.3.5
+langgraph==0.2.72
+openai==1.63.0
+pydantic==2.10.6
+python-dotenv==1.0.1
+Requests==2.32.3
+streamlit==1.42.0
+typing_extensions==4.12.2
